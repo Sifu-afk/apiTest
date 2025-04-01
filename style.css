@@ -1,0 +1,9 @@
+body{
+    background-color: gray;
+}
+
+.button{
+    width: 10px;
+    height: 4px;
+    background-color: orange;
+}
